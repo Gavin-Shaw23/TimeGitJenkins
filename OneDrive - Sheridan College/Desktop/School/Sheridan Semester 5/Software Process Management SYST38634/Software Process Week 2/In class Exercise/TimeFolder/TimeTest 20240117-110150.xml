@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TimeTest" project="Time" tests="9" started="9" failures="0" errors="0" ignored="0">
+  <testsuite name="time.TimeTest" time="0.031" displayname="TimeTest" uniqueid="[engine:junit-jupiter]/[class:time.TimeTest]">
+    <testcase name="testGetTotalSecondsBad" classname="time.TimeTest" time="0.019" displayname="testGetTotalSecondsBad()" uniqueid="[engine:junit-jupiter]/[class:time.TimeTest]/[method:testGetTotalSecondsBad()]"/>
+    <testcase name="testGetTotalMinutes" classname="time.TimeTest" time="0.005" displayname="testGetTotalMinutes()" uniqueid="[engine:junit-jupiter]/[class:time.TimeTest]/[method:testGetTotalMinutes()]"/>
+    <testcase name="testGetTotalHoursGood" classname="time.TimeTest" time="0.001" displayname="testGetTotalHoursGood()" uniqueid="[engine:junit-jupiter]/[class:time.TimeTest]/[method:testGetTotalHoursGood()]"/>
+    <testcase name="testGetTotalMinutesBad" classname="time.TimeTest" time="0.001" displayname="testGetTotalMinutesBad()" uniqueid="[engine:junit-jupiter]/[class:time.TimeTest]/[method:testGetTotalMinutesBad()]"/>
+    <testcase name="testGetTotalSecondsGood" classname="time.TimeTest" time="0.0" displayname="testGetTotalSecondsGood()" uniqueid="[engine:junit-jupiter]/[class:time.TimeTest]/[method:testGetTotalSecondsGood()]"/>
+    <testcase name="testGetTotalSeconds" classname="time.TimeTest" time="0.001" displayname="testGetTotalSeconds()" uniqueid="[engine:junit-jupiter]/[class:time.TimeTest]/[method:testGetTotalSeconds()]"/>
+    <testcase name="testGetTotalHours" classname="time.TimeTest" time="0.001" displayname="testGetTotalHours()" uniqueid="[engine:junit-jupiter]/[class:time.TimeTest]/[method:testGetTotalHours()]"/>
+    <testcase name="testGetTotalMinutesGood" classname="time.TimeTest" time="0.0" displayname="testGetTotalMinutesGood()" uniqueid="[engine:junit-jupiter]/[class:time.TimeTest]/[method:testGetTotalMinutesGood()]"/>
+    <testcase name="testGetTotalHoursBad" classname="time.TimeTest" time="0.001" displayname="testGetTotalHoursBad()" uniqueid="[engine:junit-jupiter]/[class:time.TimeTest]/[method:testGetTotalHoursBad()]"/>
+  </testsuite>
+</testrun>
